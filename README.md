@@ -10,28 +10,29 @@
 </div>
 
 
-# Build Setup:
+## Build Setup:
 npm install or yarn add
 
-# Download repository:
+## Download repository:
 git clone https://github.com/rakhimovkamran/vuejs-arithmetic-trainer.git
 
-# Go to the app:
+## Go to the app:
 cd vuejs-arithmetic-trainer
 
-# Install dependencies:
+## Install dependencies:
 npm install or yarn add
 
-# Server with hot reload at http://localhost:8081/
+## Server with hot reload at 
+http://localhost:8081/
 npm run dev
 
-# Output will be at dist/ folder
+## Output will be at dist/ folder
 npm run build
 
-# Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-# License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
