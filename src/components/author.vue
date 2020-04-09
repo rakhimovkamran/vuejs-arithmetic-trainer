@@ -4,8 +4,7 @@
         <div class="result-h1-box">
 
             <h1>Developer: Rakhimov Kamran</h1>
-            <h1>Designer: Rakhimov Kamran</h1> <br> <hr class="headline-hr">
-            <h1>Designer # 2: Jumaev Dior</h1>
+            <h1>Designer: Rakhimov Kamran</h1> <br>
 
             <button class="start-btn btn-yes" @click='$emit("social", "github")'>GitHub</button>
             <button class="start-btn btn-yes" @click='$emit("social", "instagram")'>Instagram</button>
