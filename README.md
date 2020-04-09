@@ -1,6 +1,6 @@
 # Arithmetic Trainer
 <p align="center">
-  <img alt='App Logo' src='https://i.ibb.co/Brv99jj/photo-2020-04-09-13-52-00.jpg'>
+  <img alt='App Logo' src='https://i.ibb.co/MCPN6bf/Untitled.png'>
 </p>
 
 ## Description
