@@ -1,38 +1,34 @@
-<div align="center">
-  <img width="200" height="200" src="https://vuejs.org/images/logo.png">
-  <h1>Arithmetic Trainer</h1>
-  <p>
-    If you wanna improve your math skills you can use this application.
-    I wrote this application using VueJS Framework.I wrote it for VueJS practice.
-    There are many tricks of VueJS framework that you can learn.
-  </p>
-  <p>Author: <a href="https://github.com/rakhimovkamran" target="_blank">Rakhimov Kamran</a> | <a href="https://linkedin/in/rakhimovkamran" target="_blank">LinkedIn</a></p>
-</div>
+# Arithmetic Trainer
+<p align="center">
+  <img alt='App Logo' src='https://i.ibb.co/Brv99jj/photo-2020-04-09-13-52-00.jpg'>
+</p>
 
+## Description
+**Arithmetic Trainer** that was written by using **VueJS Framework**.
+With this application you can **improve your math skills**. There is many **levels**. You can get a **result of your answers in the end**. So I wrote it for my **VueJS Practice** cuz **I was learning this framework**. Thats all about this application, **just open and enjoy**.
+## Tech Stack
 
-## Build Setup:
-npm install or yarn add
+ - **JavaScript ( Programming Language )**
+ - **VueJS ( Front-End Framework )**
+ - **SCSS ( Next Gen CSS )**
+ - **Webpack 4 ( Module Bundler )**
+ - **Babel ( Standarts Converter )**
+ - **Vuex ( State Managment Library for VueJS )**
+ ## Using ( NPM Scripts )
+ - **DEV :** This command will open application on ***dev*** mode
+ -  **BUILD :** This command will build application on ***prod*** mode
+ ## Screenshot
+<p align="center">
+  <img alt='App Screenshot' src='https://i.ibb.co/JxydsRz/covstats-bot.png'>
+</p>
 
-## Download repository:
-git clone https://github.com/rakhimovkamran/vuejs-arithmetic-trainer.git
+## Author
+### Name : Rakhimov Kamran
+### [Resume](https://drive.google.com/open?id=1qeT1X0zbppAx6XoV0mzIPFx_yT3TtpSQ)
+### <a href="mailto:rakhimovkamran@gmail.com">Mail Me</a>
 
-## Go to the app:
-cd vuejs-arithmetic-trainer
-
-## Install dependencies:
-npm install or yarn add
-
-## Server with hot reload at 
-http://localhost:8081/
-npm run dev
-
-## Output will be at dist/ folder
-npm run build
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### Social Accounts
+ - #### [GitHub](https://github.com/rakhimovkamran)
+ - #### [LinkedIn](https://linkedin.com/in/rakhimovkamran)
+ - #### [Instagram](https://instagram.com/rakhimovkamran)
+ - #### [Twitter](https://twitter.com/rakhimovkamran)
