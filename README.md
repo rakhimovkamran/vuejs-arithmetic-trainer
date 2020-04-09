@@ -19,7 +19,7 @@ With this application you can **improve your math skills**. There is many **leve
  -  **BUILD :** This command will build application on ***prod*** mode
  ## Screenshot
 <p align="center">
-  <img alt='App Screenshot' src='https://i.ibb.co/JxydsRz/covstats-bot.png'>
+  <img alt='App Screenshot' src='https://i.ibb.co/V2rRsbK/ar.jpg'>
 </p>
 
 ## Author
