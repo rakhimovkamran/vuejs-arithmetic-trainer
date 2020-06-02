@@ -32,3 +32,4 @@ With this application you can **improve your math skills**. There is many **leve
  - #### [LinkedIn](https://linkedin.com/in/rakhimovkamran)
  - #### [Instagram](https://instagram.com/rakhimovkamran)
  - #### [Twitter](https://twitter.com/rakhimovkamran)
+ - #### [Telegram](https://t.me/rakhimovkamran)
